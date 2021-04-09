@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Desafio Final Módulo 1 Bootcamp IGTI</title>
+<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">  
+  <link rel="stylesheet" href="./css/style.css" />
+</head>
+<body class="bg-gray-100">
+  <div class="container mx-auto max-w-screen-sm my-10">
+    <div class="userSearch py-2 text-center">
+      <h1 class="text-3xl my-10">Pesquisa de usuários</h1>
+      <input class="p-2 w-full rounded" type="text" placeholder="Nome do usuário" id="inputSearch" />
+      <!-- <button class="btn" id="btnFilter">Buscar</button> -->
+    </div>
+
+    <div class="filterResults flex justify-center space-x-20">
+      <div id="tabUserList">
+        <ul id="userFindedList">
+          <li class="text-2xl p-5">Nenhum usuário filtrado</li>
+        </ul>
+      </div>
+      <div id="tabStats">
+        <ul id="userStatsList">
+          <li class="text-2xl py-5">Nada a ser exibido</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <script src="./js/script.js"></script>
+</body>
+</html>
