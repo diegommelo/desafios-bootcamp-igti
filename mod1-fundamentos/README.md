@@ -1,3 +1,3 @@
-# bootcamp-modulo1
+# Desafio do Módulo 1 - Fundamentos
 
-Desafio 1 do Bootcamp de Fullstack IGTI
+Desafio para praticar fundamentos do JavaScript. A tarefa consiste em criar uma página básica, porém dinâmica, de consulta de usuários em uma API, filtrando por nome e retornando também algumas estatísticas.
