@@ -488,7 +488,7 @@
       "period": "2019-01",
       "date": "2019-01-02",
       "description": "Pagar conta de telefone",
-      "done": false
+      "done": true
     },
     {
       "id": "04507c91-dc5f-4675-ab62-67f672d9659d",
@@ -2848,7 +2848,7 @@
       "period": "2019-01",
       "date": "2019-01-03",
       "description": "Descansar",
-      "done": false
+      "done": true
     },
     {
       "id": "15137cca-48bd-4ea1-ae9a-18e2426c1f03",
@@ -3728,7 +3728,7 @@
       "period": "2021-01",
       "date": "2021-01-01",
       "description": "Pagar conta de água",
-      "done": false
+      "done": true
     },
     {
       "id": "1cc984aa-f076-4219-a023-40afe2a3943d",
@@ -12518,7 +12518,7 @@
       "period": "2019-01",
       "date": "2019-01-02",
       "description": "Pagar conta de telefone",
-      "done": false
+      "done": true
     },
     {
       "id": "6168dbb7-2732-432d-b012-15b36c8ec2b2",
@@ -12968,7 +12968,7 @@
       "period": "2019-01",
       "date": "2019-01-01",
       "description": "Ir ao parque",
-      "done": false
+      "done": true
     },
     {
       "id": "651a3c28-01bf-413c-8f40-f66a0149c436",
@@ -17108,7 +17108,7 @@
       "period": "2021-01",
       "date": "2021-01-02",
       "description": "Festa",
-      "done": false
+      "done": true
     },
     {
       "id": "82ad6eac-9fa4-496d-97a8-01947e9be61f",
@@ -24318,7 +24318,7 @@
       "period": "2021-01",
       "date": "2021-01-02",
       "description": "Meditar",
-      "done": false
+      "done": true
     },
     {
       "id": "bbdb6d86-9ea0-45b5-909f-c182fd303c9d",
@@ -26228,7 +26228,7 @@
       "period": "2021-01",
       "date": "2021-01-01",
       "description": "Estudar React",
-      "done": false
+      "done": true
     },
     {
       "id": "c8ed6080-2832-4646-831e-031c5fe5e8c8",
@@ -26618,7 +26618,7 @@
       "period": "2019-01",
       "date": "2019-01-02",
       "description": "Estudar React",
-      "done": false
+      "done": true
     },
     {
       "id": "cc5fe5f9-395c-4de2-af56-5f366a2af53c",

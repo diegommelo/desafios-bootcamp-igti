@@ -33,3 +33,8 @@ export async function apiGetTodosFrom(year,month) {
     return a.date.localeCompare(b.date);
   })
 }
+
+export async function apiUpdateTodo(updatedTodo) {
+  const url = `http://localhost:3001/todos/${updatedTodo.id}`;
+  await axios.put(url, updatedTodo);
+}
